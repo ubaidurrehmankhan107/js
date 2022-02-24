@@ -38,6 +38,7 @@ function convertWeight(e) {
 
     grams.value = x / 0.0022046; 
     ounces.value = x * 16;
+    
   }
 
 
